@@ -1,0 +1,20 @@
+001	ハッシュ関数
+https://paiza.jp/works/mondai/hash_problems/problem_index?language_uid=c-sharp
+
+002	幅優先探索・深さ優先探索メニュー
+https://paiza.jp/works/mondai/bfs_dfs_problems/problem_index?language_uid=c-sharp
+
+003	深さ優先探索 (Depth First Search, DFS) のコード
+https://paiza.jp/works/mondai/graph_dfs_problems/problem_index?language_uid=c-sharp
+
+004	ユークリッドの互除法メニュー
+https://paiza.jp/works/mondai/euclidean_primer/problem_index?language_uid=c-sharp
+
+005	スタック・キューメニュー
+https://paiza.jp/works/mondai/stack_queue/problem_index?language_uid=c-sharp
+
+006	線形探索メニュー
+https://paiza.jp/works/mondai/sequence_search_problems/problem_index?language_uid=c-sharp
+
+007	約数の列挙 進数変換
+https://paiza.jp/works/mondai/loop_problems2/problem_index?language_uid=c-sharp
